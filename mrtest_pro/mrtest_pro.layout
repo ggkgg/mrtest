@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../makefile" open="0" top="0" tabpos="0">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="../mr_common.h" open="0" top="0" tabpos="0">
+		<Cursor position="5233" topLine="111" />
+	</File>
+	<File name="../mr_test.c" open="0" top="0" tabpos="0">
+		<Cursor position="4532" topLine="146" />
+	</File>
+	<File name="../mr_test.h" open="0" top="0" tabpos="0">
+		<Cursor position="41" topLine="2" />
+	</File>
+	<File name="../mr_timer.c" open="0" top="0" tabpos="0">
+		<Cursor position="2397" topLine="66" />
+	</File>
+</CodeBlocks_layout_file>
